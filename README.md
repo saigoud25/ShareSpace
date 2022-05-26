@@ -27,5 +27,5 @@ A Social Media app to share memories you have experienced with Create, Read, Upd
 1. Clone this repository
 2. Open command line in the cloned folder,
    - Run ```  npm install  ```  in both client and server side to install dependencies, 
-   - To run the application for development, run ```  npm start ``` both client and server side.
+   - To run the application, run ```  npm start ``` both client and server side.
 4. Open [localhost:3000](http://localhost:3000/) in the browser
